@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T12:45:53.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="NCrtyn-8X8rtqiVC6LjO" type="github"><diagram id="XLB-jRiPmiTwUFUbTSsr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T07:18:49.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jGuFnEy2dZ29uCWLq7_Q" version="20.0.4" type="github">
+  <diagram id="XLB-jRiPmiTwUFUbTSsr" name="Page-1">
+    <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Food Delivery&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-2" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1.onboard a restuarant&lt;br&gt;2.Onboard Client&lt;br&gt;3.Inventory Management&lt;br&gt;4.Order Management&lt;br&gt;5.Delivery Management&lt;br&gt;6.Notification&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="4fw-LhBn7zjFRvc7JVvb-3" target="4fw-LhBn7zjFRvc7JVvb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-3" value="User Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="4fw-LhBn7zjFRvc7JVvb-4" target="4fw-LhBn7zjFRvc7JVvb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-4" value="Inventory Management" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="4fw-LhBn7zjFRvc7JVvb-5" target="4fw-LhBn7zjFRvc7JVvb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-5" value="Delivery Management Service" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="565" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-6" value="Order Management Service" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="245" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-7" value="&amp;nbsp;Notification&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="4fw-LhBn7zjFRvc7JVvb-8" target="4fw-LhBn7zjFRvc7JVvb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="4fw-LhBn7zjFRvc7JVvb-8" target="4fw-LhBn7zjFRvc7JVvb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-8" value="Payment Gateway" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="565" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fw-LhBn7zjFRvc7JVvb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="4fw-LhBn7zjFRvc7JVvb-5" target="4fw-LhBn7zjFRvc7JVvb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
